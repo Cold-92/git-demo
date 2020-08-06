@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a23d9690-a9a4-4e4a-94a5-4794dc6182c3" name="Default Changelist" comment="" />
+    <list default="true" id="a23d9690-a9a4-4e4a-94a5-4794dc6182c3" name="Default Changelist" comment="项目自身配置">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-1/src/main/java/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/module-1/src/main/java/TestMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,25 +111,30 @@
     <MESSAGE value="尝试进行第一次更改" />
     <MESSAGE value="尝试进行第二次更改" />
     <MESSAGE value="尝试进行第三次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="尝试进行第三次修改" />
+    <MESSAGE value="项目自身配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目自身配置" />
   </component>
   <component name="WindowStateProjectService">
     <state x="277" y="95" key="#Project_Structure" timestamp="1596698357335">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="277" y="95" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1596698357335" />
-    <state x="325" y="28" key="CommitChangelistDialog2" timestamp="1596733662283">
+    <state x="325" y="28" key="CommitChangelistDialog2" timestamp="1596734114332">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="325" y="28" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1596733662283" />
+    <state x="325" y="28" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1596734114332" />
     <state x="131" y="76" key="DiffContextDialog" timestamp="1596698803995">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="131" y="76" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1596698803995" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1596698909914">
+    <state x="473" y="147" key="RollbackChangesDialog" timestamp="1596733897488">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1596698909914" />
+    <state x="473" y="147" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1596733897488" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1596733722639">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1596733722639" />
     <state x="368" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1596733486970">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
