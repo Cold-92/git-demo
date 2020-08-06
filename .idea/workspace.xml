@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a23d9690-a9a4-4e4a-94a5-4794dc6182c3" name="Default Changelist" comment="尝试进行第一次更改">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-1/module-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-1/src/main/java/MainTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a23d9690-a9a4-4e4a-94a5-4794dc6182c3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +40,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -75,27 +68,69 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="尝试进行第一次更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="尝试进行第一次更改" />
+    <MESSAGE value="尝试进行第二次更改" />
+    <MESSAGE value="尝试进行第三次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="尝试进行第三次修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="277" y="95" key="#Project_Structure" timestamp="1596698357335">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="277" y="95" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1596698357335" />
-    <state x="325" y="28" key="CommitChangelistDialog2" timestamp="1596698611803">
+    <state x="325" y="28" key="CommitChangelistDialog2" timestamp="1596733662283">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="325" y="28" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1596698611803" />
-    <state x="131" y="76" key="DiffContextDialog" timestamp="1596698082116">
+    <state x="325" y="28" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1596733662283" />
+    <state x="131" y="76" key="DiffContextDialog" timestamp="1596698803995">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="131" y="76" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1596698082116" />
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1596698095377">
+    <state x="131" y="76" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1596698803995" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2" timestamp="1596698909914">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1596698095377" />
+    <state x="277" y="170" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1596698909914" />
+    <state x="368" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1596733486970">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="368" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1596733486970" />
     <state x="50" y="132" key="new project wizard" timestamp="1596697852984">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
